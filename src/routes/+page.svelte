@@ -71,4 +71,3 @@
     <ion-label>This is a footer!</ion-label>
 </ion-toolbar>
 </ion-footer>
-  
